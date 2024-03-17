@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+img{
+    float: right;
+
+    
+}
+.rfhnsyrf{
+    width: 500px;
+    height: 300px;
+    float: left;
+}
+.rfhnsyrf:hover{
+    width: 400px;
+    height: 500px;
+}
